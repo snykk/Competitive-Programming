@@ -1,3 +1,5 @@
+// origin name of kuy: Kyu7_Simple Fun #176: Reverse Letter
+
 using namespace std;
 string reverse_letter(const string &str)
 {
