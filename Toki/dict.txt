@@ -1,0 +1,15 @@
+01 - hapus satu saja
+02 - seleksi olimpiade
+03 - wildcard
+04 - pak dengklek mau ujian
+05 - pak dengklek dan operasi sederhana
+06 - Pak Dengklek Seorang Deadliner
+07 - pak dengklek dan deret yang indah
+08 - linear search
+09 - membalikkan bilangan
+10 - ganesh dan kereta
+11 - nilai kalimat matematika
+12 - bunga gabungan
+13 - penukaran emas
+14 - angka tahun baru
+15 - sub persegi
