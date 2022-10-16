@@ -9,7 +9,7 @@ package kata
 // find the number of integer partitions of n for n at least as large as 100.
 
 func Partitions(n int) int {
-	// ARE YOUE KNO WHAT... LOOK FOR THE PATTERN IS GOLD TO REDUCE COMPLEXITY
+	// ARE YOU KNOW WHAT... LOOK FOR THE PATTERN IS GOLD TO REDUCE COMPLEXITY
 	var result = [][]int{}
 	var dummy = []int{}
 	var end int
